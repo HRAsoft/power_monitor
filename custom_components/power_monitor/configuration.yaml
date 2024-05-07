@@ -1,0 +1,4 @@
+power_monitor:
+  threshold_1: -80
+  threshold_2: -180
+  threshold_3: -280
