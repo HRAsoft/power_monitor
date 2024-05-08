@@ -1,5 +1,5 @@
 name: "Power-Monitor"
-description: "My first real add-on!"
+description: "My first Power-Monitor add-on!"
 version: "0.1.0"
 slug: "power_monitor"
 init: false
