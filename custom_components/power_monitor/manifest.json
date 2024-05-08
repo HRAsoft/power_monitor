@@ -3,7 +3,7 @@
   "name": "Power Monitor",
   "documentation": "https://github.com/HRAsoft/power-monitor",
   "issue_tracker": "https://github.com/HRAsoft/power-monitor/issues",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "config_flow": true,
   "dependencies": [],
   "codeowners": ["@HRAsoft"]
